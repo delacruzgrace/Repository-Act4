@@ -1,0 +1,11 @@
+Steps completed:
+
+Created a task branch.
+
+Made a change to a project file.
+
+Committed the change.
+
+Pushed the branch to GitHub.
+
+Prepared the branch for merging into main.
